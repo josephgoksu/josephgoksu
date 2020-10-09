@@ -29,7 +29,7 @@
 <a href="https://kaggle.com/y7usuf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="y7usuf" height="30" width="40" /></a>
 <a href="https://instagram.com/y7usuf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="y7usuf" height="30" width="40" /></a>
 <a href="https://medium.com/@y7usuf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@y7usuf" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucewpybjl_la-b9gobdjhefg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucewpybjl_la-b9gobdjhefg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucewpybjl_la-b9gobdjhefg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucewpybjl_la-b9gobdjhefg" height="30" width="40" /></a>
 <a href="/https://yusufgoksu.com/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://yusufgoksu.com/rss.xml" height="30" width="40" /></a>
 </p>
 
