@@ -3,7 +3,21 @@
 
 <p align="center"> <a href="https://twitter.com/y7usuf" target="blank"><img src="https://img.shields.io/twitter/follow/y7usuf?logo=twitter&style=for-the-badge" alt="y7usuf" height="20" /></a> </p>
 
-<!-- - 🔭 I’m currently working on [Academy by Reaktif](https://academy.reaktif.io/) -->
+🟢 available for new opportunities as a contractor (full-time, project-based)
+
+I am a passionate software engineer who loves to build serverless mobile/web apps, an addict of agile practices, VSCode extension junkie, an avid learner.
+
+I have development experience with high-traffic, real-time mobile apps that are using by 300k active users. Performance, automation, and testings are my main key criteria for my development process.
+
+<p align="left">» Hard Skills: <b>NodeJS, Typescript, GraphQL</b></p>
+<p align="left">» Experienced: <b>Amazon Web Services, Serverless Frameworks, CI/CD Pipelines, Unit/Integration/e2e tests, TDD, BDD</b></p>
+<p align="left">» Areas of Interest: <b>Mobile Development and Growth, Serverless Development, Applied ML Apps</b></p>
+
+### 𝗟𝗘𝗧'𝗦 𝗖𝗢𝗡𝗡𝗘𝗖𝗧
+
+- 💬 Send me a private message on LinkedIn, I have an open profile!
+
+- 📧 Email me at me@yusufgoksu.com for speaking, interviews, job role or any other requests
 
 - 🌱 I’m currently learning **indie hacking, productization**
 
