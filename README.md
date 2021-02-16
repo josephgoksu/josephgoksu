@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://twitter.com/y7usuf" target="blank"><img src="https://img.shields.io/twitter/follow/y7usuf?logo=twitter&style=for-the-badge" alt="y7usuf" height="20" /></a> </p>
 
-🟢 available for new opportunities as a contractor (full-time, project-based)
+🔴 not available for new opportunities as a contractor (full-time, project-based)
 
 I am a passionate software engineer who loves to build serverless mobile/web apps, an addict of agile practices, VSCode extension junkie, an avid learner.
 
