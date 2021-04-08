@@ -30,11 +30,11 @@ I have development experience with high-traffic, real-time mobile apps that are 
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apache NiFi on AWS](https://yusufgoksu.com/software/apache-nifi-on-aws/)
 - [Using lottie animations in gatsby](https://yusufgoksu.com/software/lottie-and-gatsby/)
 - [Coding Criteria](https://yusufgoksu.com/software/coding-criteria/)
 - [AWS Amplify @auth directives](https://yusufgoksu.com/software/aws-amplify-auth-directives/)
 - [s1e0 pilot - the second renaissance](https://yusufgoksu.com/youtube/s1e0-pilot-the-second-renaissance/)
-- [What's new in React Native v0.62.0!](https://yusufgoksu.com/software/React-Native-v0.62.0-released/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
