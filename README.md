@@ -30,11 +30,11 @@ I have development experience with high-traffic, real-time mobile apps that are 
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes on AWS EKS for Beginners(Part 1)](https://yusufgoksu.com/software/kubernetes-on-aws-eks-for-beginners-part-1/)
-- [Apache NiFi on AWS](https://yusufgoksu.com/software/apache-nifi-on-aws/)
-- [Using lottie animations in gatsby](https://yusufgoksu.com/software/lottie-and-gatsby/)
-- [Coding Criteria](https://yusufgoksu.com/software/coding-criteria/)
-- [AWS Amplify @auth directives](https://yusufgoksu.com/software/aws-amplify-auth-directives/)
+- [Kubernetes on AWS EKS for Beginners(Part 1)](https://joeygoksu.com/software/kubernetes-on-aws-eks-for-beginners-part-1/)
+- [Apache NiFi on AWS](https://joeygoksu.com/software/apache-nifi-on-aws/)
+- [Using lottie animations in gatsby](https://joeygoksu.com/software/lottie-and-gatsby/)
+- [Coding Criteria](https://joeygoksu.com/software/coding-criteria/)
+- [AWS Amplify @auth directives](https://joeygoksu.com/software/aws-amplify-auth-directives/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
