@@ -11,7 +11,11 @@ I am a <b>passionate software engineer</b> who loves to build serverless mobile/
 <p align="left">» Experienced: <b>Amazon Web Services, Serverless Frameworks, CI/CD Pipelines, Unit/Integration/e2e tests, TDD, BDD</b></p>
 <p align="left">» Areas of Interest: <b>Fintech, Mobile Development and Growth, Serverless Development, Applied ML Apps</b></p>
 
-### Check out my projects
+### My Products
+
+- Team Spirit (AWS serverless backend, React Native Mobile)
+
+### My Open Source Projects
 
 - [LightReactNative](https://github.com/joeygoksu/LightReactNative) - 📱 All-In-One RN Template for Indie Hackers
 
