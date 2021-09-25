@@ -1,30 +1,26 @@
-<h1 align="center">Hi, I'm Joey</h1>
-<h3 align="center">Sr. Software Engineer at <a href="https://reaktif.io/">Reaktif</a></h3>
-
-<p align="center"> <a href="https://twitter.com/joeygoksu" target="blank"><img src="https://img.shields.io/twitter/follow/joeygoksu?logo=twitter&style=for-the-badge" alt="joeygoksu" height="20" /></a> </p>
+Hi, I’m Joey, a passionate sr. software engineer specializing in fault-tolerant, highly available, well-crafted applications with %90+ test coverage.
 
 🔴 not available for new opportunities as a contractor (full-time, project-based)
 
-I am a <b>passionate software engineer</b> who loves to build serverless mobile/web apps, an addict of agile practices, VSCode extension junkie, an avid learner.
+[![Twitter Badge](https://img.shields.io/badge/-@joeygoksu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/joeygoksu)](https://twitter.com/joeygoksu)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joeygoksu/)](https://www.linkedin.com/in/joeygoksu/)
+![Github Badge](https://img.shields.io/github/followers/joeygoksu?style=social)
 
-<p align="left">» Hard Skills: <b>NodeJS, Typescript, GraphQL</b></p>
-<p align="left">» Experienced: <b>Amazon Web Services, Serverless Frameworks, CI/CD Pipelines, Unit/Integration/e2e tests, TDD, BDD</b></p>
-<p align="left">» Areas of Interest: <b>Fintech, Mobile Development and Growth, Serverless Development, Applied ML Apps</b></p>
+<p align="left">» Hard Skills: <b>NodeJS, Typescript, NestJS, GraphQL, Jest</b></p>
+<p align="left">» Experienced: <b>Amazon Web Services, Serverless Framework, CI/CD Pipelines, Unit/Integration/e2e tests, TDD, BDD</b></p>
+<p align="left">» Areas of Interest: <b>Fintech, Serverless Development, Mobile Growth</b></p>
 
 ### My Products
 
-- Team Spirit (AWS serverless backend, React Native Mobile)
+- team spirit [soon]
+- [architection](https://github.com/joeygoksu/architectural-styles-detection) - architectural styles detection using MobileNet V1 - Tensorflow
 
 ### My Open Source Projects
 
-- [LightReactNative](https://github.com/joeygoksu/LightReactNative) - 📱 All-In-One RN Template for Indie Hackers
-
-- [Sky Design](https://github.com/joeygoksu/sky-design) - 🌃 the design reference for the developers who care about good design
-
-- [Mobile Design Resources](https://github.com/joeygoksu/mobile-design-resources) - 🌄 A curated list of mobile design resources
-
-- [Mockingbird Theme](https://github.com/joeygoksu/mockingbird-theme) - 🐤 Vscode Theme Mockingbird
-
+- [prime-react-native](https://github.com/joeygoksu/prime-react-native) - 📱 All-In-One RN Template for Indie Hackers
+- [sky design](https://github.com/joeygoksu/sky-design) - 🌃 the design reference for the developers who care about good design
+- [mobile design resources](https://github.com/joeygoksu/mobile-design-resources) - 🌄 A curated list of mobile design resources
+- [mockingbird theme](https://github.com/joeygoksu/mockingbird-theme) - 🐤 Vscode Theme Mockingbird
 
 ### 𝗟𝗘𝗧'𝗦 𝗖𝗢𝗡𝗡𝗘𝗖𝗧
 
@@ -41,6 +37,7 @@ I am a <b>passionate software engineer</b> who loves to build serverless mobile/
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Kubernetes on AWS EKS for Beginners(Part 1)](https://joeygoksu.com/software/kubernetes-on-aws-eks-for-beginners-part-1/)
 - [Apache NiFi on AWS](https://joeygoksu.com/software/apache-nifi-on-aws/)
 - [Using lottie animations in gatsby](https://joeygoksu.com/software/lottie-and-gatsby/)
@@ -50,13 +47,13 @@ I am a <b>passionate software engineer</b> who loves to build serverless mobile/
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/joeygoksu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="y7usuf" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joeygoksu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yusufemregoksu" height="30" width="40" /></a>
+<a href="https://twitter.com/joeygoksu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="joeygoksu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joeygoksu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joeygoksu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/5666426" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="5666426" height="30" width="40" /></a>
-<a href="https://kaggle.com/y7usuf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="y7usuf" height="30" width="40" /></a>
-<a href="https://medium.com/@y7usuf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@y7usuf" height="30" width="40" /></a>
+<a href="https://kaggle.com/joeygoksu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="joeygoksu" height="30" width="40" /></a>
+<a href="https://medium.com/@joeygoksu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@joeygoksu" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/ucewpybjl_la-b9gobdjhefg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucewpybjl_la-b9gobdjhefg" height="30" width="40" /></a>
-<a href="https://dev.to/y7usuf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="y7usuf" height="30" width="40" /></a>
+<a href="https://dev.to/joeygoksu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="joeygoksu" height="30" width="40" /></a>
 <a href="/https://joeygoksu.com/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://joeygoksu.com/rss.xml" height="30" width="40" /></a>
 </p>
 
