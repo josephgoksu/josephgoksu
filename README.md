@@ -37,7 +37,6 @@ Hi, I’m Joey, a passionate sr. software engineer specializing in fault-toleran
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Kubernetes on AWS EKS for Beginners(Part 1)](https://joeygoksu.com/software/kubernetes-on-aws-eks-for-beginners-part-1/)
 - [Apache NiFi on AWS](https://joeygoksu.com/software/apache-nifi-on-aws/)
 - [Using lottie animations in gatsby](https://joeygoksu.com/software/lottie-and-gatsby/)
