@@ -13,10 +13,12 @@ Hi, I’m Joey, a passionate sr. software engineer specializing in fault-toleran
 ### My Products
 
 - team spirit [soon]
+- [audiences.ninja](https://audiences.ninja/) - grow your Twitter engagement and get seen by a bigger audience  
 - [architection](https://github.com/joeygoksu/architectural-styles-detection) - architectural styles detection using MobileNet V1 - Tensorflow
 
 ### My Open Source Projects
 
+- [prime-nestjs](https://github.com/joeygoksu/prime-nestjs) -  🚀 The ultimate collection of production-ready NestJS Boilerplate. 
 - [prime-react-native](https://github.com/joeygoksu/prime-react-native) - 📱 All-In-One RN Template for Indie Hackers
 - [sky design](https://github.com/joeygoksu/sky-design) - 🌃 the design reference for the developers who care about good design
 - [mobile design resources](https://github.com/joeygoksu/mobile-design-resources) - 🌄 A curated list of mobile design resources
