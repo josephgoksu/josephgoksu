@@ -2,7 +2,7 @@ Hi, I’m Joey, a passionate sr. software engineer specializing in fault-toleran
 
 🔴 not available for new opportunities as a contractor (full-time, project-based)
 
-[![Twitter Badge](https://img.shields.io/badge/-@joeygoksu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/joeygoksu)](https://twitter.com/joeygoksu)
+[![Twitter Badge](https://img.shields.io/badge/-@joeygoksu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/joeygoksu)](https://twitter.com/intent/user?original_referer=&region=screen_name&screen_name=joeygoksu&source=followbutton&variant=1.1)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joeygoksu/)](https://www.linkedin.com/in/joeygoksu/)
 ![Github Badge](https://img.shields.io/github/followers/joeygoksu?style=social)
 
