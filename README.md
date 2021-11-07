@@ -1,4 +1,4 @@
-Hi, I’m Joey, a passionate sr. software engineer specializing in fault-tolerant, highly available, well-crafted applications with %90+ test coverage.
+Hi, I’m Joey, a passionate <b>SWE</b> specializing in fault-tolerant, highly available, well-crafted applications with %90+ test coverage.
 
 🔴 not available for new opportunities as a contractor (full-time, project-based)
 
@@ -6,9 +6,9 @@ Hi, I’m Joey, a passionate sr. software engineer specializing in fault-toleran
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joeygoksu/)](https://www.linkedin.com/in/joeygoksu/)
 ![Github Badge](https://img.shields.io/github/followers/joeygoksu?style=social)
 
-<p align="left">» Hard Skills: <b>NodeJS, Typescript, NestJS, GraphQL, Jest</b></p>
-<p align="left">» Experienced: <b>Amazon Web Services, Serverless Framework, CI/CD Pipelines, Unit/Integration/e2e tests, TDD, BDD</b></p>
-<p align="left">» Areas of Interest: <b>Fintech, Serverless Development, Mobile Growth</b></p>
+<p align="left">» Hard Skills: NodeJS, Typescript, NestJS, GraphQL, React Native, ReactJS</b></p>
+<p align="left">» Experienced: AWS, Terraform, Pulumi, Serverless Framework, CI/CD Pipelines, Unit/Integration/e2e testing, TDD, BDD</b></p>
+<p align="left">» Areas of Interest: Fintech, Serverless Development, Lean product development, Applied ML app development</b></p>
 
 ### My Products
 
