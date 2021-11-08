@@ -39,11 +39,10 @@ Hi, I’m Joey, a passionate <b>SWE</b> specializing in fault-tolerant, highly a
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes on AWS EKS for Beginners(Part 1)](https://joeygoksu.com/software/kubernetes-on-aws-eks-for-beginners-part-1/)
+- [Kubernetes on AWS EKS for Beginners&lpar;Part 1&rpar;](https://joeygoksu.com/software/kubernetes-on-aws-eks-for-beginners-part-1/)
 - [Apache NiFi on AWS](https://joeygoksu.com/software/apache-nifi-on-aws/)
 - [Using lottie animations in gatsby](https://joeygoksu.com/software/lottie-and-gatsby/)
 - [Coding Criteria](https://joeygoksu.com/software/coding-criteria/)
-- [AWS Amplify @auth directives](https://joeygoksu.com/software/aws-amplify-auth-directives/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
