@@ -39,10 +39,10 @@ Hi, I’m Joey, a passionate <b>SWE</b> specializing in fault-tolerant, highly a
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Cloudformation in 5 mins [Quick Start]](https://joeygoksu.com/software/aws-cloudformation-in-5-mins/)
 - [Kubernetes on AWS EKS for Beginners&lpar;Part 1&rpar;](https://joeygoksu.com/software/kubernetes-on-aws-eks-for-beginners-part-1/)
 - [Apache NiFi on AWS](https://joeygoksu.com/software/apache-nifi-on-aws/)
 - [Using lottie animations in gatsby](https://joeygoksu.com/software/lottie-and-gatsby/)
-- [Coding Criteria](https://joeygoksu.com/software/coding-criteria/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
