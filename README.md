@@ -1,14 +1,11 @@
-Hi, I’m Joey, a passionate <b>SWE</b> specializing in fault-tolerant, highly available, well-crafted applications with %90+ test coverage.
-
-🔴 not available for new opportunities as a contractor (full-time, project-based)
+Hi, I'm Joey, a passionate <b>DevOps</b> specializing in fault-tolerant, highly available, well-crafted infrastructure development.
 
 [![Twitter Badge](https://img.shields.io/badge/-@joeygoksu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/joeygoksu)](https://twitter.com/intent/user?original_referer=&region=screen_name&screen_name=joeygoksu&source=followbutton&variant=1.1)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joeygoksu/)](https://www.linkedin.com/in/joeygoksu/)
 ![Github Badge](https://img.shields.io/github/followers/joeygoksu?style=social)
 
-<p align="left">» Hard Skills: NodeJS, Typescript, NestJS, GraphQL, React Native, ReactJS</b></p>
-<p align="left">» Experienced: AWS, Terraform, Pulumi, Serverless Framework, CI/CD Pipelines, Unit/Integration/e2e testing, TDD, BDD</b></p>
-<p align="left">» Areas of Interest: Fintech, Serverless Development, Lean product development, Applied ML app development</b></p>
+<p align="left">» Experienced: AWS, Terraform, Pulumi, Serverless Framework, CI/CD Pipelines, NodeJS, Typescript, NestJS, Unit/Integration/e2e testing, TDD, BDD</p>
+<p align="left">» Areas of Interest: Fintech, Financial Products, Serverless Development, Lean product development</p>
 
 ### My Products
 
