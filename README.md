@@ -15,6 +15,7 @@ Hi, I'm Joey, a passionate <b>DevOps</b> specializing in fault-tolerant, highly 
 
 ### My Open Source Projects
 
+- [prime-microservices](https://github.com/joeygoksu/prime-microservices) - This project epitome of microservices architecture.
 - [prime-nestjs](https://github.com/joeygoksu/prime-nestjs) -  🚀 The ultimate collection of production-ready NestJS Boilerplate. 
 - [prime-react-native](https://github.com/joeygoksu/prime-react-native) - 📱 All-In-One RN Template for Indie Hackers
 - [sky design](https://github.com/joeygoksu/sky-design) - 🌃 the design reference for the developers who care about good design
