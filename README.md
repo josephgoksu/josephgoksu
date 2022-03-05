@@ -1,11 +1,14 @@
+![Community Builder LinkedIn 1400px](https://user-images.githubusercontent.com/6523823/156895532-776dba48-e5cb-40c1-bfec-ced1edded07d.png)
+
+
 Hi, I'm Joey, a passionate <b>DevOps</b> specializing in fault-tolerant, highly available, well-crafted infrastructure development.
+
+<p align="left">» Experienced: AWS, Terraform, Pulumi, Serverless Framework, CI/CD Pipelines, NodeJS, Typescript, NestJS, Unit/Integration/e2e testing, TDD, BDD</p>
+<p align="left">» Areas of Interest: Fintech, Financial Products, Serverless Development, Lean product development</p>
 
 [![Twitter Badge](https://img.shields.io/badge/-@joeygoksu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/joeygoksu)](https://twitter.com/intent/user?original_referer=&region=screen_name&screen_name=joeygoksu&source=followbutton&variant=1.1)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joeygoksu/)](https://www.linkedin.com/in/joeygoksu/)
 ![Github Badge](https://img.shields.io/github/followers/joeygoksu?style=social)
-
-<p align="left">» Experienced: AWS, Terraform, Pulumi, Serverless Framework, CI/CD Pipelines, NodeJS, Typescript, NestJS, Unit/Integration/e2e testing, TDD, BDD</p>
-<p align="left">» Areas of Interest: Fintech, Financial Products, Serverless Development, Lean product development</p>
 
 ### My Products
 
