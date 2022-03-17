@@ -1,7 +1,7 @@
 ![Community Builder LinkedIn 1400px](https://user-images.githubusercontent.com/6523823/156895532-776dba48-e5cb-40c1-bfec-ced1edded07d.png)
 
 
-Hi, I'm Joey, a passionate <b>DevOps</b> specializing in fault-tolerant, highly available, well-crafted infrastructure development.
+Hi, I'm Joey, a passionate <b>DevSecOps</b> specializing in fault-tolerant, highly available, well-crafted infrastructure development.
 
 <p align="left">» Experienced: AWS, Terraform, Pulumi, Serverless Framework, CI/CD Pipelines, NodeJS, Typescript, NestJS, Unit/Integration/e2e testing, TDD, BDD</p>
 <p align="left">» Areas of Interest: Fintech, Financial Products, Serverless Development, Lean product development</p>
