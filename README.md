@@ -10,7 +10,9 @@ Hi, I'm Joey, a passionate <b>DevSecOps</b> specializing in fault-tolerant, high
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joeygoksu/)](https://www.linkedin.com/in/joeygoksu/)
 ![Github Badge](https://img.shields.io/github/followers/joeygoksu?style=social)
 
-### My Products
+### [Public Speaking](https://github.com/joeygoksu/public-speaking)
+
+### [My Products](https://joeygoksu.com/products)
 
 - team spirit [soon]
 - [audiences.ninja](https://audiences.ninja/) - grow your Twitter engagement and get seen by a bigger audience  
