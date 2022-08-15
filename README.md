@@ -43,10 +43,10 @@ Hi, I'm Joey, a passionate <b>DevSecOps</b> specializing in fault-tolerant, high
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A Brief Guide to GitOps](https://joeygoksu.com/devops/principles-of-gitops/)
+- [Terraform Best Practices](https://joeygoksu.com/devops/terraform-best-practices/)
+- [Demystifying Continuous Integration and Continuous Delivery](https://joeygoksu.com/devops/demystifying-continuous-integration-continuous-delivery/)
+- [A Quick Overview of GitOps](https://joeygoksu.com/devops/principles-of-gitops/)
 - [DevSecOps: Policy as Code](https://joeygoksu.com/devops/devops-policy-as-code/)
-- [Deploy NestJS app to AWS ECS using Pulumi [Quick Tutorial]](https://joeygoksu.com/software/iac-pulumi-and-aws-ecs-deployment-tutorial/)
-- [AWS Cloudformation in 5 mins [Quick Start]](https://joeygoksu.com/software/aws-cloudformation-in-5-mins/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
