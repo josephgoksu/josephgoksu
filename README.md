@@ -43,10 +43,10 @@ Hi, I'm Joey, a passionate <b>DevSecOps</b> specializing in fault-tolerant, high
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Proven Tips for Improving Your Software Development Process](https://joeygoksu.com/engineering/7-proven-tipsfor-improving-your-software-development-process/)
 - [Terraform Best Practices](https://joeygoksu.com/devops/terraform-best-practices/)
 - [Demystifying Continuous Integration and Continuous Delivery](https://joeygoksu.com/devops/demystifying-continuous-integration-continuous-delivery/)
 - [A Quick Overview of GitOps](https://joeygoksu.com/devops/principles-of-gitops/)
-- [DevSecOps: Policy as Code](https://joeygoksu.com/devops/devops-policy-as-code/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
