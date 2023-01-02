@@ -1,7 +1,6 @@
 ![Community Builder LinkedIn 1400px](https://user-images.githubusercontent.com/6523823/156895532-776dba48-e5cb-40c1-bfec-ced1edded07d.png)
 
-
-Hi, I'm Joey, a passionate <b>DevSecOps</b> specializing in fault-tolerant, highly available, well-crafted infrastructure development.
+Passionate Senior Software Engineer with a passion for building reliable infrastructure and platforms using AWS, Cloud Native Architecture, and DevOps principles, and a strong background in NodeJS and micro-services development.
 
 <p align="left">» Experienced: AWS, Terraform, Pulumi, Serverless Framework, CI/CD Pipelines, NodeJS, Typescript, NestJS, Unit/Integration/e2e testing, TDD, BDD</p>
 <p align="left">» Areas of Interest: Fintech, Financial Products, Serverless Development, Lean product development</p>
@@ -14,15 +13,20 @@ Hi, I'm Joey, a passionate <b>DevSecOps</b> specializing in fault-tolerant, high
 
 ### [My Products](https://joeygoksu.com/products)
 
-- team spirit [soon]
-- [classifyfor.me](https://classifyfor.me)
-- [audiences.ninja](https://audiences.ninja/) - grow your Twitter engagement and get seen by a bigger audience  
+<h4>Active 🍀</h4>
+
+- [classifyfor.me](https://classifyfor.me) - effortlessly Organize Your Bookmarks
+
+<h4>Deprecated 🍓</h4>
+
+- [team spirit](https://github.com/joeygoksu/TeamSpiritApp) - interim polling app for startups
+- [audiences.ninja](https://audiences.ninja/) - grow your Twitter engagement and get seen by a bigger audience
 - [architection](https://github.com/joeygoksu/architectural-styles-detection) - architectural styles detection using MobileNet V1 - Tensorflow
 
 ### My Open Source Projects
 
 - [reactive-microservices](https://github.com/joeygoksu/reactive-microservices) - This project epitome of reactive microservices architecture.
-- [prime-nestjs](https://github.com/joeygoksu/prime-nestjs) -  🚀 The ultimate collection of production-ready NestJS Boilerplate. 
+- [prime-nestjs](https://github.com/joeygoksu/prime-nestjs) - 🚀 The ultimate collection of production-ready NestJS Boilerplate.
 - [prime-react-native](https://github.com/joeygoksu/prime-react-native) - 📱 All-In-One RN Template for Indie Hackers
 - [sky design](https://github.com/joeygoksu/sky-design) - 🌃 the design reference for the developers who care about good design
 - [mobile design resources](https://github.com/joeygoksu/mobile-design-resources) - 🌄 A curated list of mobile design resources
@@ -43,6 +47,7 @@ Hi, I'm Joey, a passionate <b>DevSecOps</b> specializing in fault-tolerant, high
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [7 Proven Tips for Improving Your Software Development Process](https://joeygoksu.com/engineering/7-proven-tipsfor-improving-your-software-development-process/)
 - [Terraform Best Practices](https://joeygoksu.com/devops/terraform-best-practices/)
 - [Demystifying Continuous Integration and Continuous Delivery](https://joeygoksu.com/devops/demystifying-continuous-integration-continuous-delivery/)
