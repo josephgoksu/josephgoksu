@@ -47,7 +47,6 @@ Passionate Senior Software Engineer with a passion for building reliable infrast
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [7 Proven Tips for Improving Your Software Development Process](https://joeygoksu.com/engineering/7-proven-tipsfor-improving-your-software-development-process/)
 - [Terraform Best Practices](https://joeygoksu.com/devops/terraform-best-practices/)
 - [Demystifying Continuous Integration and Continuous Delivery](https://joeygoksu.com/devops/demystifying-continuous-integration-continuous-delivery/)
