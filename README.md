@@ -49,8 +49,8 @@ Passionate Senior Software Engineer with a passion for building reliable infrast
 <!-- BLOG-POST-LIST:START -->
 - [Concurrency, Performance, and Simplicity | Why Golang is a Better Choice than Node.js](https://joeygoksu.com/software/concurrency-performance-and-simplicity-why-golangisa-better-choicethan-nodejs/)
 - [7 Proven Tips for Improving Your Software Development Process](https://joeygoksu.com/engineering/7-proven-tipsfor-improving-your-software-development-process/)
+- [AWS Cloudformation in 5 mins [Quick Start]](https://joeygoksu.com/software/aws-cloudformation-in-5-mins/)
 - [Terraform Best Practices](https://joeygoksu.com/devops/terraform-best-practices/)
-- [Demystifying Continuous Integration and Continuous Delivery](https://joeygoksu.com/devops/demystifying-continuous-integration-continuous-delivery/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
