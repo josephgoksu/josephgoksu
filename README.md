@@ -27,6 +27,7 @@ Passionate Senior Software Engineer with a passion for building reliable infrast
 
 - [reactive-microservices](https://github.com/josephgoksu/reactive-microservices) - This project epitome of reactive microservices architecture.
 - [prime-nestjs](https://github.com/josephgoksu/prime-nestjs) - 🚀 The ultimate collection of production-ready NestJS Boilerplate.
+- [prime-go](https://github.com/josephgoksu/prime-go) - 🔵 A simple repository to test the Go language.
 - [prime-react-native](https://github.com/josephgoksu/prime-react-native) - 📱 All-In-One RN Template for Indie Hackers
 - [sky design](https://github.com/josephgoksu/sky-design) - 🌃 the design reference for the developers who care about good design
 - [mobile design resources](https://github.com/josephgoksu/mobile-design-resources) - 🌄 A curated list of mobile design resources
