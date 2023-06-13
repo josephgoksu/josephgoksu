@@ -15,7 +15,7 @@ Passionate Senior Software Engineer with a passion for building reliable infrast
 
 <h4>Active 🍀</h4>
 
-- [classifyfor.me](https://classifyfor.me) - effortlessly Organize Your Bookmarks
+- [markwise.app](https://markwise.app) - effortlessly Organize Your Bookmarks
 
 <h4>Deprecated 🍓</h4>
 
