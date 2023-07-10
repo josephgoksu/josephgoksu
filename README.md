@@ -48,10 +48,10 @@ Passionate Senior Software Engineer with a passion for building reliable infrast
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Concurrency, Performance, and Simplicity | Why Golang is a Better Choice than Node.js](https://joeygoksu.com/software/concurrency-performance-and-simplicity-why-golangisa-better-choicethan-nodejs/)
-- [7 Proven Tips for Improving Your Software Development Process](https://joeygoksu.com/engineering/7-proven-tipsfor-improving-your-software-development-process/)
-- [AWS Cloudformation in 5 mins [Quick Start]](https://joeygoksu.com/software/aws-cloudformation-in-5-mins/)
-- [Terraform Best Practices](https://joeygoksu.com/devops/terraform-best-practices/)
+- [Prime-NestJS: Your Next-Level NestJS Boilerplate](https://josephgoksu.com/blog/prime-nestjs-your-next-level-nestjs-boilerplate)
+- [Why Go is a better choice than Node.js](https://josephgoksu.com/blog/why-golang-is-a-better-choice-than-nodejs)
+- [7 Proven Tips for Improving Your Software Development Process](https://josephgoksu.com/blog/7-proven-tips-for-improving-your-software-development-process)
+- [Terraform Best Practices](https://josephgoksu.com/blog/terraform-best-practices)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
