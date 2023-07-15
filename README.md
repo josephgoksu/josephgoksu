@@ -11,11 +11,10 @@ Passionate Senior Software Engineer with a passion for building reliable infrast
 
 ### [Public Speaking](https://github.com/josephgoksu/public-speaking)
 
-### [My Products](https://josephgoksu.com/products)
-
-<h4>Active 🍀</h4>
+## ⭐ Highlighted Products
 
 - [markwise.app](https://markwise.app) - effortlessly Organize Your Bookmarks
+- [Other Products](https://josephgoksu.com/products)
 
 <h4>Deprecated 🍓</h4>
 
@@ -23,7 +22,7 @@ Passionate Senior Software Engineer with a passion for building reliable infrast
 - [audiences.ninja](https://audiences.ninja/) - grow your Twitter engagement and get seen by a bigger audience
 - [architection](https://github.com/josephgoksu/architectural-styles-detection) - architectural styles detection using MobileNet V1 - Tensorflow
 
-### My Open Source Projects
+## ⭐ Highlighted Products
 
 - [reactive-microservices](https://github.com/josephgoksu/reactive-microservices) - This project epitome of reactive microservices architecture.
 - [prime-nestjs](https://github.com/josephgoksu/prime-nestjs) - 🚀 The ultimate collection of production-ready NestJS Boilerplate.
