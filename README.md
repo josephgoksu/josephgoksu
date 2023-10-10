@@ -2,11 +2,6 @@
 
 Passionate Senior Software Engineer with a focus on building reliable infrastructure and platforms using AWS, Cloud Native Architecture, and DevOps principles. I have a strong background in NodeJS and micro-services development.
 
-## Indie Products
-
-- [markwise.app](https://markwise.app) - Your personal AI knowledge assistant
-- [Other Products](https://josephgoksu.com/products)
-
 ## Open Source Projects
 - [reactive-microservices](https://github.com/josephgoksu/reactive-microservices) - A prime example of reactive microservices architecture.
 - [prime-nestjs](https://github.com/josephgoksu/prime-nestjs) - 🚀 The ultimate collection of production-ready NestJS Boilerplate.
