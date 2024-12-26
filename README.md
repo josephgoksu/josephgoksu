@@ -3,7 +3,6 @@
 Passionate Senior Software Engineer with a focus on building reliable infrastructure and platforms using AWS, Cloud Native Architecture, and DevOps principles. I have a strong background in NodeJS and micro-services development.
 
 ## Open Source Projects
-- [reactive-microservices](https://github.com/josephgoksu/reactive-microservices) - A prime example of reactive microservices architecture.
 - [prime-nestjs](https://github.com/josephgoksu/prime-nestjs) - 🚀 The ultimate collection of production-ready NestJS Boilerplate.
 - [prime-go](https://github.com/josephgoksu/prime-go) - 🔵 A simple repository to test the Go language.
 - [prime-react-native](https://github.com/josephgoksu/prime-react-native) - 📱 All-In-One RN Template for Indie Hackers
