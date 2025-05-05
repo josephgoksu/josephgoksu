@@ -1,19 +1,15 @@
 ![Community Builder LinkedIn 1400px](https://user-images.githubusercontent.com/6523823/156895532-776dba48-e5cb-40c1-bfec-ced1edded07d.png)
 
-Passionate Senior Software Engineer with a focus on building reliable infrastructure and platforms using AWS, Cloud Native Architecture, and DevOps principles. I have a strong background in NodeJS and micro-services development.
+I'm a Site Reliability Engineer specializing in building resilient, scalable infrastructure. I combine software engineering with operations knowledge to create reliable systems that prioritize observability and automation.
 
 ## Open Source Projects
 - [prime-nestjs](https://github.com/josephgoksu/prime-nestjs) - 🚀 The ultimate collection of production-ready NestJS Boilerplate.
-- [prime-go](https://github.com/josephgoksu/prime-go) - 🔵 A simple repository to test the Go language.
+- [metagrab](https://github.com/josephgoksu/metagrab) - Fast, lightweight metadata scraper for URLs. Written in Go.
+- [nvim](https://github.com/josephgoksu/nvim-config) - all-in-one my nvim configuration
 - [prime-react-native](https://github.com/josephgoksu/prime-react-native) - 📱 All-In-One RN Template for Indie Hackers
 - [sky design](https://github.com/josephgoksu/sky-design) - 🌃 The design reference for developers who care about good design
 - [mobile design resources](https://github.com/josephgoksu/mobile-design-resources) - 🌄 A curated list of mobile design resources
 - [mockingbird theme](https://github.com/josephgoksu/mockingbird-theme) - 🐤 Vscode Theme Mockingbird
-
-## Deprecated Projects
-- [team spirit](https://github.com/josephgoksu/TeamSpiritApp) - Interim polling app for startups
-- [audiences.ninja](https://audiences.ninja/) - Grow your Twitter engagement and get seen by a bigger audience
-- [architection](https://github.com/josephgoksu/architectural-styles-detection) - Architectural styles detection using MobileNet V1 - Tensorflow
 
 ### Recent Blog Posts
 
