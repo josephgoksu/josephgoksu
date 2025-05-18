@@ -5,6 +5,7 @@ I'm a Site Reliability Engineer specializing in building resilient, scalable inf
 ## Open Source Projects
 - [prime-nestjs](https://github.com/josephgoksu/prime-nestjs) - 🚀 The ultimate collection of production-ready NestJS Boilerplate.
 - [metagrab](https://github.com/josephgoksu/metagrab) - Fast, lightweight metadata scraper for URLs. Written in Go.
+- [gok-proxy](https://github.com/josephgoksu/gok-proxy) - Lightweight High-Performance Go Proxy Server
 - [nvim](https://github.com/josephgoksu/nvim-config) - all-in-one my nvim configuration
 - [prime-react-native](https://github.com/josephgoksu/prime-react-native) - 📱 All-In-One RN Template for Indie Hackers
 - [sky design](https://github.com/josephgoksu/sky-design) - 🌃 The design reference for developers who care about good design
