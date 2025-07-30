@@ -1,25 +1,46 @@
-I'm a driven Lead Software Engineer with a focus on developing fault-tolerant, highly available infrastructure and platforms.
+# Joseph Goksu - Professional Bio
 
-- Bachelor's degree in Computer Engineering
-- Six or more years of proven software development experience
-- Four or more years of DevOps experience
-- Hands-on experience in continuous integration and deployment (CI/CD) (Terraform, AWS CDK, Cloudformation, Pulumi, Jenkins, GitHub Actions, etc.)
-- I have a strong background in DevOps in cloud platforms and have a proven track record of managing the entire cycle from conception to production as well as managing the operation of services utilising various SRE concepts.
+Joseph Goksu is a Site Reliability Engineer with expertise in building resilient, scalable infrastructure at enterprise scale. He architects systems that eliminate single points of failure, implements comprehensive observability solutions, and drives automation that reduces operational overhead by orders of magnitude.
 
-- Build, deploy, and manage microservices and Rest APIs for high-traffic applications.
-- Proficiency with NodeJS and Typescript, as well as frameworks such as NestJS, ExpressJS, Koa, and others.
-- Unit testing, integration testing, and end-to-end testing experience (E2E)
-- I believe in open-source software and have contributed to various projects as well as maintained several open-source projects.
-- I enjoy simplifying and distilling core concepts to solve complex problems with elegant solutions.
-- Solid understanding of Agile and mastery of Scrum's fundamentals.
-- Fintech 5.0, Financial Products, Serverless Development, and Lean Product Development are some of my areas of interest.
+I stand on the shoulders of giants—and I believe in giving back. I contribute to open source not just out of passion, but because it's the right thing to do. I'm an AWS Community Builder and actively lead several communities where we cut through the noise, dig into real tech, and share what actually works.
 
-» Experienced: AWS, Terraform, Pulumi, Serverless Framework, Cloud-first architecture, CI/CD Pipelines, NodeJS, Typescript, NestJS, Unit/Integration/e2e testing, TDD, BDD
+My focus is where AI meets cloud infrastructure and developer workflows. I care about building things that actually solve problems whether that's smarter automation, more reliable pipelines, or systems that scale without wasting money. It's all about practical engineering, not hype.
 
-· GitHub: https://github.com/joeygoksu
-· Website: https://joeygoksu.com
-· My products/projects: https://joeygoksu.com/products
-· Twitter: https://twitter.com/joeygoksu
+## Experience & Expertise
 
-💬 Send me a private message on LinkedIn, I have an open profile!
-📧 For speaking, interviews, job roles, or any other inquiries, please feel free to contact me at me@joeygoksu.com.
+**Core Competencies:**
+
+- Site Reliability Engineering principles and implementation
+- Infrastructure as Code with Terraform, AWS CDK, and Pulumi
+- Kubernetes platform engineering and GitOps workflows
+- Cloud-native architecture design and implementation
+- Observability, monitoring, and incident response strategies
+
+**Technical Stack:**
+
+- **Cloud Platforms:** AWS (Community Builder), with deep expertise in compute, networking, and managed services
+- **Infrastructure:** Terraform, AWS CDK, Kubernetes, Docker, serverless architectures
+- **Programming:** Go, TypeScript/Node.js, with focus on systems programming and automation
+- **DevOps/SRE:** CI/CD pipelines, monitoring systems, incident management, post-mortem culture
+- **AI/ML Integration:** Model Context Protocol (MCP), AI-assisted development workflows
+
+## Open Source Contributions
+
+Active maintainer of several open source projects including TaskWing (AI-assisted CLI task manager), production-grade NestJS boilerplates, and high-performance Go utilities. Contributor to the broader DevOps and SRE community through code, documentation, and knowledge sharing.
+
+## Speaking & Community
+
+Available for technical talks on Site Reliability Engineering, Platform Engineering, Infrastructure as Code, and the intersection of AI with cloud infrastructure. Regular speaker at conferences and meetups, focusing on real-world SRE practices, automation strategies, and lessons learned from scaling infrastructure.
+
+## Education & Background
+
+Bachelor's degree in Computer Engineering with 6+ years of software development experience and 4+ years specializing in DevOps and Site Reliability Engineering.
+
+## Contact
+
+- **Website:** https://josephgoksu.com
+- **GitHub:** https://github.com/josephgoksu
+- **LinkedIn:** https://linkedin.com/in/josephgoksu
+- **Email:** joseph@josephgoksu.com
+
+For speaking opportunities, technical collaborations, or professional inquiries, reach out via LinkedIn or email.

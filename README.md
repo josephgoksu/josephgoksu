@@ -1,24 +1,49 @@
 ![Community Builder LinkedIn 1400px](https://user-images.githubusercontent.com/6523823/156895532-776dba48-e5cb-40c1-bfec-ced1edded07d.png)
 
-I'm a Site Reliability Engineer specializing in building resilient, scalable infrastructure. I combine software engineering with operations knowledge to create reliable systems that prioritize observability and automation.
+# Joseph Goksu
+
+Site Reliability Engineer with expertise in building resilient, scalable infrastructure at enterprise scale. I architect systems that eliminate single points of failure, implement comprehensive observability solutions, and drive automation that reduces operational overhead by orders of magnitude.
 
 ## Open Source Projects
-- [prime-nestjs](https://github.com/josephgoksu/prime-nestjs) - 🚀 The ultimate collection of production-ready NestJS Boilerplate.
-- [metagrab](https://github.com/josephgoksu/metagrab) - Fast, lightweight metadata scraper for URLs. Written in Go.
-- [gok-proxy](https://github.com/josephgoksu/gok-proxy) - Lightweight High-Performance Go Proxy Server
-- [nvim](https://github.com/josephgoksu/nvim-config) - all-in-one my nvim configuration
-- [prime-react-native](https://github.com/josephgoksu/prime-react-native) - 📱 All-In-One RN Template for Indie Hackers
-- [sky design](https://github.com/josephgoksu/sky-design) - 🌃 The design reference for developers who care about good design
-- [mobile design resources](https://github.com/josephgoksu/mobile-design-resources) - 🌄 A curated list of mobile design resources
-- [mockingbird theme](https://github.com/josephgoksu/mockingbird-theme) - 🐤 Vscode Theme Mockingbird
 
-### Recent Blog Posts
+**Infrastructure & Platform Engineering**
+- [TaskWing](https://github.com/josephgoksu/TaskWing) - AI-assisted CLI task manager with Model Context Protocol integration
+- [platform-eng-exercise](https://github.com/josephgoksu/platform-eng-exercise) - Production-grade AWS EKS cluster with Terraform and GitOps workflows
+- [metagrab](https://github.com/josephgoksu/metagrab) - High-performance URL metadata scraper written in Go
+- [gok-proxy](https://github.com/josephgoksu/gok-proxy) - Lightweight Go proxy server for production environments
+
+**Development Frameworks & Tools**
+- [prime-nestjs](https://github.com/josephgoksu/prime-nestjs) - Enterprise NestJS boilerplate with battle-tested patterns
+- [prime-react-native](https://github.com/josephgoksu/prime-react-native) - Production-ready React Native template
+
+**Developer Tooling**
+- [nvim-config](https://github.com/josephgoksu/nvim-config) - Advanced Neovim configuration for systems engineers
+- [sky design](https://github.com/josephgoksu/sky-design) - Design system principles for technical teams
+- [mobile design resources](https://github.com/josephgoksu/mobile-design-resources) - Curated mobile design patterns
+- [mockingbird theme](https://github.com/josephgoksu/mockingbird-theme) - VSCode theme optimized for infrastructure code
+
+## Speaking & Meetups
+
+Available for technical talks on Site Reliability Engineering, Platform Engineering, Infrastructure as Code, and building resilient distributed systems. I speak at conferences and meetups about real-world SRE practices, automation strategies, and lessons learned from scaling infrastructure.
+
+**Topics I cover:**
+- Site Reliability Engineering principles and implementation
+- Infrastructure as Code with Terraform and AWS
+- Kubernetes platform engineering and GitOps
+- Observability and monitoring strategies
+- Incident response and post-mortem culture
+
+For speaking opportunities, reach out via [LinkedIn](https://linkedin.com/in/josephgoksu) or [email](mailto:joseph@josephgoksu.com).
+
+## Technical Writing
 
 - [Prime-NestJS: Your Next-Level NestJS Boilerplate](https://josephgoksu.com/blog/prime-nestjs-your-next-level-nestjs-boilerplate)
 - [Why Go is a Better Choice than Node.js](https://josephgoksu.com/blog/why-golang-is-a-better-choice-than-nodejs)
 - [7 Proven Tips for Improving Your Software Development Process](https://josephgoksu.com/blog/7-proven-tips-for-improving-your-software-development-process)
 - [Terraform Best Practices](https://josephgoksu.com/blog/terraform-best-practices)
 
-### Let's Stay Connected
-- [Twitter](https://twitter.com/josephgoksu)
-- [LinkedIn](https://linkedin.com/in/josephgoksu)
+## Contact
+
+- [LinkedIn](https://linkedin.com/in/josephgoksu) - Professional network
+- [Twitter](https://twitter.com/josephgoksu) - Technical discussions
+- [Website](https://josephgoksu.com) - Blog and portfolio
