@@ -38,10 +38,10 @@ For speaking opportunities, reach out via [LinkedIn](https://linkedin.com/in/jos
 ## Technical Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [Prime-NestJS: Your Next-Level NestJS Boilerplate](https://josephgoksu.com/blog/prime-nestjs-your-next-level-nestjs-boilerplate)
-- [Why Go is a Better Choice than Node.js](https://josephgoksu.com/blog/why-golang-is-a-better-choice-than-nodejs)
-- [7 Proven Tips for Improving Your Software Development Process](https://josephgoksu.com/blog/7-proven-tips-for-improving-your-software-development-process)
-- [Terraform Best Practices](https://josephgoksu.com/blog/terraform-best-practices)
+- [Notes on Zero Trust Architecture on AWS](https://josephgoksu.com/blog/notes-on-zero-trust-architecture-on-aws)
+- [Why did I switch from Node.js to Golang after 5 years?](https://josephgoksu.com/blog/why-golang-is-a-better-choice-than-nodejs)
+- [What do I need Amazon GuardDuty for?](https://josephgoksu.com/blog/amazon-guard-duty-simple-walkthrough)
+- [How did I deploy my NestJS app to AWS ECS using Pulumi?](https://josephgoksu.com/blog/iac-pulumi-and-aws-ecs-deployment-tutorial)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
