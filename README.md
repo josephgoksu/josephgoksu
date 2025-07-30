@@ -37,10 +37,12 @@ For speaking opportunities, reach out via [LinkedIn](https://linkedin.com/in/jos
 
 ## Technical Writing
 
+<!-- BLOG-POST-LIST:START -->
 - [Prime-NestJS: Your Next-Level NestJS Boilerplate](https://josephgoksu.com/blog/prime-nestjs-your-next-level-nestjs-boilerplate)
 - [Why Go is a Better Choice than Node.js](https://josephgoksu.com/blog/why-golang-is-a-better-choice-than-nodejs)
 - [7 Proven Tips for Improving Your Software Development Process](https://josephgoksu.com/blog/7-proven-tips-for-improving-your-software-development-process)
 - [Terraform Best Practices](https://josephgoksu.com/blog/terraform-best-practices)
+<!-- BLOG-POST-LIST:END -->
 
 ## Contact
 
