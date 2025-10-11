@@ -2,50 +2,51 @@
 
 # Joseph Goksu
 
-Site Reliability Engineer with expertise in building resilient, scalable infrastructure at enterprise scale. I architect systems that eliminate single points of failure, implement comprehensive observability solutions, and drive automation that reduces operational overhead by orders of magnitude.
+I’m a senior software engineer (platform) who builds developer platforms and internal tools like real products—from design to release—blending reliability, performance, and developer experience.
 
 ## Open Source Projects
 
-**Infrastructure & Platform Engineering**
-- [TaskWing](https://github.com/josephgoksu/TaskWing) - AI-assisted CLI task manager with Model Context Protocol integration
-- [platform-eng-exercise](https://github.com/josephgoksu/platform-eng-exercise) - Production-grade AWS EKS cluster with Terraform and GitOps workflows
-- [metagrab](https://github.com/josephgoksu/metagrab) - High-performance URL metadata scraper written in Go
-- [gok-proxy](https://github.com/josephgoksu/gok-proxy) - Lightweight Go proxy server for production environments
+**Platform & Infrastructure**
+- [TaskWing](https://github.com/josephgoksu/TaskWing) — AI-assisted CLI and task manager built with the Model Context Protocol  
+- [platform-eng-exercise](https://github.com/josephgoksu/platform-eng-exercise) — Production-grade AWS EKS cluster using Terraform and GitOps  
+- [metagrab](https://github.com/josephgoksu/metagrab) — High-performance URL metadata scraper written in Go  
+- [gok-proxy](https://github.com/josephgoksu/gok-proxy) — Lightweight Go proxy for secure production workloads  
 
 **Development Frameworks & Tools**
-- [prime-nestjs](https://github.com/josephgoksu/prime-nestjs) - Enterprise NestJS boilerplate with battle-tested patterns
-- [prime-react-native](https://github.com/josephgoksu/prime-react-native) - Production-ready React Native template
+- [prime-nestjs](https://github.com/josephgoksu/prime-nestjs) — Enterprise NestJS boilerplate with modular architecture and best practices  
+- [prime-react-native](https://github.com/josephgoksu/prime-react-native) — Production-ready React Native template for rapid prototyping  
 
-**Developer Tooling**
-- [nvim-config](https://github.com/josephgoksu/nvim-config) - Advanced Neovim configuration for systems engineers
-- [sky design](https://github.com/josephgoksu/sky-design) - Design system principles for technical teams
-- [mobile design resources](https://github.com/josephgoksu/mobile-design-resources) - Curated mobile design patterns
-- [mockingbird theme](https://github.com/josephgoksu/mockingbird-theme) - VSCode theme optimized for infrastructure code
+**Developer Experience**
+- [nvim-config](https://github.com/josephgoksu/nvim-config) — Optimized Neovim configuration for systems and backend engineers  
+- [sky-design](https://github.com/josephgoksu/sky-design) — Minimal design system principles for engineering teams  
+- [mobile-design-resources](https://github.com/josephgoksu/mobile-design-resources) — Curated mobile UI patterns for developers  
+- [mockingbird-theme](https://github.com/josephgoksu/mockingbird-theme) — VS Code theme tuned for infrastructure and backend development  
 
 ## Speaking & Meetups
 
-Available for technical talks on Site Reliability Engineering, Platform Engineering, Infrastructure as Code, and building resilient distributed systems. I speak at conferences and meetups about real-world SRE practices, automation strategies, and lessons learned from scaling infrastructure.
+Available for technical talks on Platform Engineering, Developer Experience, Infrastructure as Code, and scaling resilient systems.  
+I share practical insights from building internal platforms, automating delivery pipelines, and designing systems that serve both developers and end-users.
 
-**Topics I cover:**
-- Site Reliability Engineering principles and implementation
-- Infrastructure as Code with Terraform and AWS
-- Kubernetes platform engineering and GitOps
-- Observability and monitoring strategies
-- Incident response and post-mortem culture
+**Topics I cover**
+- Developer Platforms as Products  
+- Infrastructure as Code with Terraform and AWS  
+- Kubernetes, GitOps, and multi-tenant architecture  
+- Observability, incident response, and reliability culture  
+- Balancing developer velocity with security and compliance  
 
-For speaking opportunities, reach out via [LinkedIn](https://linkedin.com/in/josephgoksu) or [email](mailto:joseph@josephgoksu.com).
+For speaking opportunities, contact me via [LinkedIn](https://linkedin.com/in/josephgoksu) or [email](mailto:joseph@josephgoksu.com).
 
 ## Technical Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [Notes on Zero Trust Architecture on AWS](https://josephgoksu.com/blog/notes-on-zero-trust-architecture-on-aws)
-- [Why did I switch from Node.js to Golang after 5 years?](https://josephgoksu.com/blog/why-golang-is-a-better-choice-than-nodejs)
-- [What do I need Amazon GuardDuty for?](https://josephgoksu.com/blog/amazon-guard-duty-simple-walkthrough)
-- [How did I deploy my NestJS app to AWS ECS using Pulumi?](https://josephgoksu.com/blog/iac-pulumi-and-aws-ecs-deployment-tutorial)
+- [Notes on Zero Trust Architecture on AWS](https://josephgoksu.com/blog/notes-on-zero-trust-architecture-on-aws)  
+- [Why I moved from Node.js to Go after five years](https://josephgoksu.com/blog/why-golang-is-a-better-choice-than-nodejs)  
+- [What Amazon GuardDuty actually solves](https://josephgoksu.com/blog/amazon-guard-duty-simple-walkthrough)  
+- [Deploying a NestJS app to AWS ECS using Pulumi](https://josephgoksu.com/blog/iac-pulumi-and-aws-ecs-deployment-tutorial)  
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
 
-- [LinkedIn](https://linkedin.com/in/josephgoksu) - Professional network
-- [Twitter](https://twitter.com/josephgoksu) - Technical discussions
-- [Website](https://josephgoksu.com) - Blog and portfolio
+- [LinkedIn](https://linkedin.com/in/josephgoksu) — Professional network  
+- [Twitter](https://twitter.com/josephgoksu) — Technical discussions  
+- [Website](https://josephgoksu.com) — Blog & portfolio  
