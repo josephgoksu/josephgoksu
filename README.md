@@ -39,10 +39,10 @@ For speaking opportunities, contact me via [LinkedIn](https://linkedin.com/in/jo
 ## Technical Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [Notes on Zero Trust Architecture on AWS](https://josephgoksu.com/blog/notes-on-zero-trust-architecture-on-aws)  
-- [Why I moved from Node.js to Go after five years](https://josephgoksu.com/blog/why-golang-is-a-better-choice-than-nodejs)  
-- [What Amazon GuardDuty actually solves](https://josephgoksu.com/blog/amazon-guard-duty-simple-walkthrough)  
-- [Deploying a NestJS app to AWS ECS using Pulumi](https://josephgoksu.com/blog/iac-pulumi-and-aws-ecs-deployment-tutorial)  
+- [Notes on Zero Trust Architecture on AWS](https://josephgoksu.com/blog/notes-on-zero-trust-architecture-on-aws)
+- [Why did I switch from Node.js to Golang after 5 years?](https://josephgoksu.com/blog/why-golang-is-a-better-choice-than-nodejs)
+- [What do I need Amazon GuardDuty for?](https://josephgoksu.com/blog/amazon-guard-duty-simple-walkthrough)
+- [How did I deploy my NestJS app to AWS ECS using Pulumi?](https://josephgoksu.com/blog/iac-pulumi-and-aws-ecs-deployment-tutorial)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
