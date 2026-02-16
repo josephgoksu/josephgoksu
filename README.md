@@ -39,10 +39,10 @@ For speaking opportunities, contact me via [LinkedIn](https://linkedin.com/in/jo
 ## Technical Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [I Fine-Tuned My Own LLM in a Weekend - Here&#39;s Everything I Learned](https://josephgoksu.com/blog/fine-tuning-llm-for-compliance-narratives)
 - [Notes on Zero Trust Architecture on AWS](https://josephgoksu.com/blog/notes-on-zero-trust-architecture-on-aws)
 - [Why did I switch from Node.js to Golang after 5 years?](https://josephgoksu.com/blog/why-golang-is-a-better-choice-than-nodejs)
 - [What do I need Amazon GuardDuty for?](https://josephgoksu.com/blog/amazon-guard-duty-simple-walkthrough)
-- [How did I deploy my NestJS app to AWS ECS using Pulumi?](https://josephgoksu.com/blog/iac-pulumi-and-aws-ecs-deployment-tutorial)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
