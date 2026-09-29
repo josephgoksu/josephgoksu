@@ -2,7 +2,7 @@
 
 Durable, repo-specific knowledge for the public GitHub profile README.
 
-`CLAUDE.md` and `AGENTS.md` point here.
+`AGENTS.md` points here.
 
 ## What belongs
 
