@@ -8,6 +8,7 @@ I’m a senior software engineer (platform) who builds developer platforms and i
 
 **Platform & Infrastructure**
 - [Upbar](https://github.com/josephgoksu/upbar) — macOS menu bar uptime monitor for SREs: p50–p99 latency, request traces, TLS expiry and deploy events  
+- [Strain](https://github.com/josephgoksu/strain) — macOS menu bar app that names what is straining your Mac: memory pressure, swap, CPU, disk and dev servers, in plain English  
 - [TaskWing](https://github.com/josephgoksu/TaskWing) — AI-assisted CLI and task manager built with the Model Context Protocol  
 - [platform-eng-exercise](https://github.com/josephgoksu/platform-eng-exercise) — Production-grade AWS EKS cluster using Terraform and GitOps  
 - [metagrab](https://github.com/josephgoksu/metagrab) — High-performance URL metadata scraper written in Go  
