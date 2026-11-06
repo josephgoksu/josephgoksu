@@ -1,44 +1,17 @@
-![Community Builder LinkedIn 1400px](https://user-images.githubusercontent.com/6523823/156895532-776dba48-e5cb-40c1-bfec-ced1edded07d.png)
+Senior platform engineer in the UK. I build cloud platforms on AWS and open-source tools in Go.
 
-# Joseph Goksu
+[Website](https://josephgoksu.com) · [Blog](https://josephgoksu.com/blog) · [LinkedIn](https://www.linkedin.com/in/josephgoksu) · [X](https://x.com/josephgoksu) · [YouTube](https://www.youtube.com/@josephgoksu) · [Email](mailto:josephgoksu@gmail.com)
 
-I’m a senior software engineer (platform) who builds developer platforms and internal tools like real products—from design to release—blending reliability, performance, and developer experience.
+## Projects
 
-## Open Source Projects
+- **[Osprey](https://github.com/opensource-finance/osprey)**: open-source transaction monitoring for fraud and AML. CEL rules, one Go binary, self-hosted. Home: [opensource.finance](https://opensource.finance)
+- **[Upbar](https://github.com/josephgoksu/upbar)**: uptime checks in the macOS menu bar, with p50-p99 latency, request traces, TLS expiry and deploy events
+- **[Osprey Narrator](https://huggingface.co/josephgoksu/osprey-narrator-v0.1)**: small fine-tuned model that turns monitoring alerts into compliance narratives
+- **[TaskWing](https://github.com/josephgoksu/TaskWing)**: developer tooling for AI coding agents, currently being rebuilt
 
-**Platform & Infrastructure**
-- [Upbar](https://github.com/josephgoksu/upbar) — macOS menu bar uptime monitor for SREs: p50–p99 latency, request traces, TLS expiry and deploy events  
-- [Strain](https://github.com/josephgoksu/strain) — macOS menu bar app that names what is straining your Mac: memory pressure, swap, CPU, disk and dev servers, in plain English  
-- [TaskWing](https://github.com/josephgoksu/TaskWing) — AI-assisted CLI and task manager built with the Model Context Protocol  
-- [platform-eng-exercise](https://github.com/josephgoksu/platform-eng-exercise) — Production-grade AWS EKS cluster using Terraform and GitOps  
-- [metagrab](https://github.com/josephgoksu/metagrab) — High-performance URL metadata scraper written in Go  
-- [gok-proxy](https://github.com/josephgoksu/gok-proxy) — Lightweight Go proxy for secure production workloads  
+Also: [metagrab](https://github.com/josephgoksu/metagrab) (URL metadata scraper in Go) · [gok-proxy](https://github.com/josephgoksu/gok-proxy) (lightweight Go proxy) · [prime-nestjs](https://github.com/josephgoksu/prime-nestjs) (NestJS starter)
 
-**Development Frameworks & Tools**
-- [prime-nestjs](https://github.com/josephgoksu/prime-nestjs) — Enterprise NestJS boilerplate with modular architecture and best practices  
-- [prime-react-native](https://github.com/josephgoksu/prime-react-native) — Production-ready React Native template for rapid prototyping  
-
-**Developer Experience**
-- [nvim-config](https://github.com/josephgoksu/nvim-config) — Optimized Neovim configuration for systems and backend engineers  
-- [sky-design](https://github.com/josephgoksu/sky-design) — Minimal design system principles for engineering teams  
-- [mobile-design-resources](https://github.com/josephgoksu/mobile-design-resources) — Curated mobile UI patterns for developers  
-- [mockingbird-theme](https://github.com/josephgoksu/mockingbird-theme) — VS Code theme tuned for infrastructure and backend development  
-
-## Speaking & Meetups
-
-Available for technical talks on Platform Engineering, Developer Experience, Infrastructure as Code, and scaling resilient systems.  
-I share practical insights from building internal platforms, automating delivery pipelines, and designing systems that serve both developers and end-users.
-
-**Topics I cover**
-- Developer Platforms as Products  
-- Infrastructure as Code with Terraform and AWS  
-- Kubernetes, GitOps, and multi-tenant architecture  
-- Observability, incident response, and reliability culture  
-- Balancing developer velocity with security and compliance  
-
-For speaking opportunities, contact me via [LinkedIn](https://linkedin.com/in/josephgoksu) or [email](mailto:joseph@josephgoksu.com).
-
-## Technical Writing
+## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
 - [System 1 Models: The Opposite of Reasoning Models](https://josephgoksu.com/blog/clef-decision-models)
@@ -47,8 +20,4 @@ For speaking opportunities, contact me via [LinkedIn](https://linkedin.com/in/jo
 - [I Fine-Tuned My Own LLM in a Weekend - Here&#39;s Everything I Learned](https://josephgoksu.com/blog/fine-tuning-llm-for-compliance-narratives)
 <!-- BLOG-POST-LIST:END -->
 
-## Contact
-
-- [LinkedIn](https://linkedin.com/in/josephgoksu) — Professional network  
-- [Twitter](https://twitter.com/josephgoksu) — Technical discussions  
-- [Website](https://josephgoksu.com) — Blog & portfolio  
+More on [josephgoksu.com](https://josephgoksu.com). Open to talks on platform engineering, AWS and open-source finance.
