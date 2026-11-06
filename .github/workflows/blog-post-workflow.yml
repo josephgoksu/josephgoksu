@@ -1,14 +1,14 @@
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
-    - cron: "0 13 * * 1" # Runs every hour, on the hour
+    - cron: "0 13 * * 1" # Mondays 13:00 UTC
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
   update-readme-with-blog:
     name: Update this repos README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://josephgoksu.com/feed.xml"
